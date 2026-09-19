@@ -85,17 +85,6 @@ Data Structures & Algorithms
 Gen AI
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekharman003&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekharman003&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
