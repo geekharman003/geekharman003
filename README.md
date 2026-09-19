@@ -5,7 +5,7 @@
 I'm a developer who enjoys building **practical, scalable web applications** and solving problems through clean and maintainable code.
 
 * 🔭 Currently building and improving full-stack applications
-* 🌱 Currently learning ** Next.js & TypeScript**
+* 🌱 Currently learning **Next.js & TypeScript**
 * 💻 Strong interest in **Backend Development & Full-Stack Engineering**
 * 🧠 Practicing **DSA and problem-solving**
 * 🚀 Interested in building real-world products and AI-powered applications
